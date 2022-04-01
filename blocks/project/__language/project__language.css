@@ -1,0 +1,10 @@
+.project__language {
+  font-size: 25px;
+}
+
+
+@media screen and (max-width: 900px) {
+  .project__language {
+    display: none;
+  }
+}

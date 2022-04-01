@@ -1,0 +1,4 @@
+.project__image_overlap::after {
+  background-image: url("../../../../images/image2.jpg");
+  background-position: center;
+}

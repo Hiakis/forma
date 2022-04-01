@@ -1,0 +1,13 @@
+.about {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+
+.about:last-child {
+  justify-content: space-between;
+}

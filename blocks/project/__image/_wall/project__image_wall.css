@@ -1,0 +1,4 @@
+.project__image_wall::after {
+  background-image: url("../../../../images/image1.jpg");
+  background-position: center;
+}

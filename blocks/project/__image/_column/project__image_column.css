@@ -1,0 +1,4 @@
+.project__image_column::after {
+  background-image: url("../../../../images/image4.jpg");
+  background-position: center;
+}

@@ -1,0 +1,11 @@
+.contacts__logo {
+  margin-top: 20px;
+  width: 250px;
+}
+
+
+@media screen and (max-width: 900px) {
+  .contacts__logo {
+    width: 150px;
+  }
+}

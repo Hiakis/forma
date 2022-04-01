@@ -1,0 +1,10 @@
+.about__container {
+  margin-bottom: 20%;
+}
+
+
+@media screen and (max-width: 900px) {
+  .about__container {
+    margin-bottom: 0;
+  }
+}

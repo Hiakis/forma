@@ -1,0 +1,18 @@
+.contacts__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.contacts__info:first-child {
+  margin-right: 100px;
+  margin-left: 20px;
+}
+
+
+@media screen and (max-width: 900px) {
+  .contacts__directions {
+    display: none;
+  }
+}
+

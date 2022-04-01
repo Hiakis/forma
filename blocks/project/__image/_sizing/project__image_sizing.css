@@ -1,0 +1,4 @@
+.project__image_sizing::after {
+  background-image: url("../../../../images/image3.jpg");
+  background-position: center;
+}

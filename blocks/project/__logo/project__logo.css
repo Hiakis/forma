@@ -1,0 +1,10 @@
+.project__logo {
+  width: 250px;
+}
+
+
+@media screen and (max-width: 900px) {
+  .project__logo {
+    width: 125px;
+  }
+}

@@ -1,0 +1,11 @@
+.about__logo {
+  margin-top: 20px;
+  width: 250px;
+}
+
+
+@media screen and (max-width: 1400px) {
+  .about__logo {
+    width: 50vw;
+  }
+}

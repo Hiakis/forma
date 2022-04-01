@@ -1,0 +1,13 @@
+.project__title {
+  font-size: 70px;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+@media screen and (max-width: 900px) {
+  .project__title {
+    font-size: 35px;
+    margin-bottom: 35px;
+    text-align: center;
+  }
+}

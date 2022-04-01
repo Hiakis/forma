@@ -1,0 +1,22 @@
+.project__page {
+  font-size: 28px;
+  padding-bottom: 35px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.project__page:last-child {
+  padding-bottom: 0;
+}
+
+
+@media screen and (max-width: 900px) {
+  .project__page {
+    font-size: 20px;
+    color: black;
+  }
+}
+
+.project__page_number {
+  font-size: 20px;
+}

@@ -1,0 +1,16 @@
+@font-face {
+  src: url("./Montserrat-Regular.ttf"),
+  url("./Montserrat-Regular.ttf");
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("./Montserrat-Bold.ttf"),
+  url("./Montserrat-Bold.ttf");
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: bold;
+}
+

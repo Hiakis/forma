@@ -1,0 +1,53 @@
+.project__arrow {
+  position: relative;
+  width: 50px;
+  cursor: pointer;
+  -webkit-animation: arrow 0.5s 1s infinite ease-out alternate;
+  -moz-animation: arrow 0.5s 1s infinite ease-out alternate;
+  -o-animation: arrow 0.5s 1s infinite ease-out alternate;
+  animation: arrow 0.5s 1s infinite ease-out alternate;
+}
+
+@-webkit-keyframes arrow {
+  0% {
+    top: 0px;
+  }
+  100% {
+    top: 10px;
+  }
+}
+
+@-moz-keyframes arrow {
+  0% {
+    top: 0px;
+  }
+  100% {
+    top: 10px;
+  }
+}
+
+@-o-keyframes arrow {
+  0% {
+    top: 0px;
+  }
+  100% {
+    top: 10px;
+  }
+}
+
+@keyframes arrow {
+  0% {
+    top: 0px;
+  }
+  100% {
+    top: 10px;
+  }
+}
+
+
+@media screen and (max-width: 900px) {
+  .project__arrow {
+    width: 35px;
+    display: none;
+  }
+}

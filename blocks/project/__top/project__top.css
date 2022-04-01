@@ -1,0 +1,19 @@
+.project__top {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 60px 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .project__top {
+    padding: 40px 40px 0;
+  }
+
+}
+
+
+@media screen and (max-width: 900px) {
+  .project__top {
+    display: none;
+  }
+}

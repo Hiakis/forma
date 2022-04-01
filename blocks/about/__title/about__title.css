@@ -1,0 +1,27 @@
+.about__title {
+  margin: 0;
+  font-size: 35px;
+  padding-bottom: 10px;
+}
+
+
+@media screen and (max-width: 1400px) {
+  .about__title {
+    width: 90%;
+    align-self: flex-start;
+  }
+}
+
+
+@media screen and (max-width: 900px) {
+  .about__title {
+    font-size: 18px;
+  }
+  .margin_title {
+    margin-bottom: 10%;
+  }
+
+  .bold {
+    padding: 0;
+  }
+}
